@@ -20,7 +20,7 @@ body {
 .calculator {
   background: #ffffff;
   border-radius: 20px; /* Slightly larger border-radius for softer edges */
-  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.18), 0 5px 15px rgba(0, 0, 0, 0.12); /* Slightly stronger shadow for smaller size */
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.18), 0 5px 15px rgba(0, 0, 0, 0.13); /* Slightly stronger shadow for smaller size */
   width: 280px; /* Reduced width */
   padding: 20px; /* Adjusted padding for smaller size */
   border: 1px solid rgba(255, 255, 255, 0.6); /* Slightly more visible border for definition */
@@ -124,4 +124,5 @@ body {
 .equal:active {
   transform: translateY(0);
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+
 }
